@@ -1,0 +1,3 @@
+include ':app', ':faceunity'
+rootProject.name='AgoraLive-Android'
+include ':framework'
