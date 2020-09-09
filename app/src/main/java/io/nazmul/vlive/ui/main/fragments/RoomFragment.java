@@ -29,7 +29,7 @@ import io.agora.vlive.R;
 
 public class RoomFragment extends AbstractFragment implements View.OnClickListener {
     private static final int TAB_COUNT = 4;
-    private static final int TAB_TEXT_VIEW_INDEX = 1;
+    private static final int TAB_TEXT_VIEW_INDEX = 2;
 
     private int mCurrentTap;
     private TabLayout mTabLayout;
