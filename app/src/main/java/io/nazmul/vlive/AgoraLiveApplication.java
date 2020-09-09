@@ -19,6 +19,7 @@ import com.elvishew.xlog.printer.file.FilePrinter;
 import com.elvishew.xlog.printer.file.backup.FileSizeBackupStrategy;
 import com.elvishew.xlog.printer.file.clean.FileLastModifiedCleanStrategy;
 import com.elvishew.xlog.printer.file.naming.DateFileNameGenerator;
+import com.huawei.multimedia.audiokit.BuildConfig;
 
 import io.nazmul.capture.video.camera.CameraManager;
 import io.nazmul.framework.PreprocessorFaceUnity;

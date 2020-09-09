@@ -1,6 +1,7 @@
 package io.nazmul.vlive.proxy;
 
 import com.elvishew.xlog.XLog;
+import com.huawei.multimedia.audiokit.BuildConfig;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -8,7 +9,6 @@ import java.util.List;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-import io.nazmul.vlive.BuildConfig;
 import io.nazmul.vlive.proxy.interfaces.GeneralService;
 import io.nazmul.vlive.proxy.interfaces.LiveRoomService;
 import io.nazmul.vlive.proxy.interfaces.RoomListService;

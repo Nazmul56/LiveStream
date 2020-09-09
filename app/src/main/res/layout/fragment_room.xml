@@ -31,10 +31,10 @@
         android:layout_height="@dimen/start_broadcast_btn_size"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:paddingStart="@dimen/activity_horizontal_margin"
-        android:paddingEnd="@dimen/activity_horizontal_margin"
         android:layout_marginEnd="@dimen/activity_horizontal_margin"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
-        android:src="@drawable/start_broadcast_btn"
-        android:scaleType="centerCrop"/>
+        android:paddingStart="@dimen/activity_horizontal_margin"
+        android:paddingEnd="@dimen/activity_horizontal_margin"
+        android:scaleType="centerCrop"
+        android:src="@drawable/start_broadcast_btn" />
 </RelativeLayout>
